@@ -7,6 +7,9 @@
     <title>Document</title>
     <style>
 /*      Hello nabil    */
+/*       اشكرك على التعددل الرائع
+        لكني لااستطيع 
+        عمل اكثر من ذلك*/
         body {
             background-color: #f5f5f5;
             font-size:28px;
