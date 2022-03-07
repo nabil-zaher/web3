@@ -20,6 +20,7 @@
             background:#fff;
             color:#000;
         }
+        /* new */
     </style>
 </head>
 <body>
